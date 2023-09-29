@@ -145,6 +145,10 @@ img {
   background-color: #E5E7EB;
 }
 
+.white-box {
+  background-color: solid white;
+}
+
 .container-4 {
   display: flex;
   flex-direction: column;
@@ -171,6 +175,18 @@ img {
   border-radius: 10px;
   display: flex;
   flex-direction: column;
+}
+
+.proclomation,
+.blue-box {
+  margin: 5px 10px 5px 10px ;
+  color: white;
+
+}
+
+.blue-box {
+  display: flex;
+  justify-content: space-between;
 }
 
 
