@@ -70,9 +70,11 @@ a:visited {
 .button {
   background-color: rgb(29, 74, 188);
   border-radius: 5px;
-  border: 2px solid black;
+  border: 1px solid gray;
   max-width: 120px;
   color: solid white;
+  font-size: 20px;
+  color: white;
 }
 
 
