@@ -150,7 +150,6 @@ img {
   flex-direction: column;
   margin: 200px 250px 200px 250px;
   justify-content: space-between;
-  align-items: center;
 }
 
 .testimonial {
@@ -160,9 +159,9 @@ img {
 }
 
 .credit {
-  align-items: right;
   font-size: 24px ;
   font-weight: 800;
+  text-align: right;
 }
 
 
